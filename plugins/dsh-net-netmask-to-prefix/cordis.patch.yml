@@ -1,0 +1,4 @@
+# 网络工具：netmask to prefix
+- insert:
+    - id: dsh-net-netmask-to-prefix
+      name: "dsh-net-netmask-to-prefix"

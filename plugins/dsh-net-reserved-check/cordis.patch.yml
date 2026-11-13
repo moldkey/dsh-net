@@ -1,0 +1,4 @@
+# 网络工具：reserved check
+- insert:
+    - id: dsh-net-reserved-check
+      name: "dsh-net-reserved-check"
